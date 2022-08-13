@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/store-sofa/static/css/main.cf554ae2.css",
+    "main.js": "/store-sofa/static/js/main.0662208a.js",
+    "static/media/dobavprirdekor-1200x800.jpg": "/store-sofa/static/media/dobavprirdekor-1200x800.38210e2af270a62052ba.jpg",
+    "index.html": "/store-sofa/index.html",
+    "main.cf554ae2.css.map": "/store-sofa/static/css/main.cf554ae2.css.map",
+    "main.0662208a.js.map": "/store-sofa/static/js/main.0662208a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf554ae2.css",
+    "static/js/main.0662208a.js"
+  ]
+}
