@@ -9,8 +9,8 @@ export class Items extends Component {
           <Item
             onShowItem={this.props.onShowItem}
             key={item.id}
-            item={item}
             onAdd={this.props.onAdd}
+            item={item}
           />
         ))}
       </main>
